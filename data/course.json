@@ -1,0 +1,43 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Cell Biology"
+    ]
+  ],
+  "legacy_uid": "48ba547b-f475-9ec2-5832-c0c79ebfebb4",
+  "instructors": {
+    "content": [
+      "ba38bc53-d580-e6b8-3716-148b6596decc",
+      "cbfa779c-89f9-0dd9-0ee4-3828e5524463"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "bbc914da-cb79-e2e1-91b6-3603e364c538",
+    "website": "7-06-cell-biology-spring-2007"
+  },
+  "course_title": "Cell Biology",
+  "course_description": "This course deals with the biology of cells of higher organisms: The structure, function, and biosynthesis of cellular membranes and organelles; cell growth and oncogenic transformation; transport, receptors, and cell signaling; the cytoskeleton, the extracellular matrix, and cell movements; chromatin structure and RNA synthesis.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "7.06",
+  "course_image_thumbnail": {
+    "content": "84485792-5752-1a6a-0b96-f44a8e57d861",
+    "website": "7-06-cell-biology-spring-2007"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams"
+  ],
+  "site_uid": "0fb5a6a3-4e79-429f-8893-48d0085340d4",
+  "title": "Course Metadata"
+}
